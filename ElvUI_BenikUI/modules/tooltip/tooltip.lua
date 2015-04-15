@@ -1,4 +1,4 @@
-﻿local E, L, V, P, G = unpack(ElvUI); --Import: Engine, Locales, PrivateDB, ProfileDB, GlobalDB, Localize Underscore
+﻿local E, L, V = unpack(ElvUI);
 local TT = E:GetModule('Tooltip')
 
 ----------------------------------------------------------------------------------------
