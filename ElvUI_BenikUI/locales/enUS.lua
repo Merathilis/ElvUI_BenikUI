@@ -107,9 +107,9 @@ L['ZYGOR_CONFLICT_WARNING'] = "It has been reported that Zygor Guides has issues
 
 -- DataTexts
 L['|cff00ff00New Mail|r'] = true
+L['No Mail'] = true
 
 -- Misc Options
-L['XP - Rep'] = true
 L['Show in PlayerBar'] = true
 L['Empty Frames must be enabled \n(in UnitFrames options)'] = true
 L['Copy Font Style from'] = true
