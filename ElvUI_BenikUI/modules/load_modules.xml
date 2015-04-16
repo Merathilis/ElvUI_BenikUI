@@ -6,5 +6,5 @@
 	<Include file="dashboard\load_dashboards.xml"/>
 	<Include file="datatexts\load_datatexts.xml"/>
 	<Include file="skins\load_skins.xml"/>
-	<Include file="tooltip\load_tooltip.xml"/>
+	<Include file="tooltip\tooltip.lua"/>
 </Ui>
